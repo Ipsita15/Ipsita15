@@ -13,6 +13,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
     - FrontEnd: HTML, CSS, JavaScript
     - BackEnd: Django
     - Database: SQL 
+    - Core: Machine Learning
 
 - Coding Skills in Java (DSA), Solved 500+ DSA based questions
 
