@@ -11,7 +11,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 
 - Web Development Stack,
     - FrontEnd: HTML, CSS, JavaScript
-    - BackEnd: Django
+    - BackEnd: Django, Php
     - Database: SQL 
     - Core: Machine Learning
 
