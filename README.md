@@ -1,4 +1,4 @@
-</p><img src="https://komarev.com/ghpvc/?username=ipsita15&label=Profile%20Views&color=pink&style=flat" alt="Ipsita15" />
+</p><img src="https://komarev.com/ghpvc/?username=ipsita15&label=Profile%20Views&color=ff69b4&style=flat" alt="Ipsita15" />
 
 
 
