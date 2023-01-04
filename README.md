@@ -46,6 +46,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 
 ## Connect with me 🤝
 [![GitHub followers](https://img.shields.io/github/followers/Ipsita15?style=social)](https://www.github.com/Ipsita15) [![Linkedin Badge](https://img.shields.io/badge/ipsita-das724-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ipsita-das724/)](https://www.linkedin.com/in/ipsita-das724/) [![Instagram Badge](https://img.shields.io/badge/-_ipszz_-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ipszz_/)](https://www.instagram.com/_ipszz_/) [![Twitter Follow](https://img.shields.io/twitter/follow/heyipsita?style=social)](https://www.twitter.com/heyipsita) 
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uckvf82zdqvxcnp8avzixiig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckvf82zdqvxcnp8avzixiig" height="30" width="40" /></a>
-
+<p align="left">
+<a href="https://www.youtube.com/channel/uckvf82zdqvxcnp8avzixiig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uckvf82zdqvxcnp8avzixiig" height="25" width="40" /></a>
+</p>
 
