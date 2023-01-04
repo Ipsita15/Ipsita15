@@ -6,7 +6,7 @@
 
 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ipsita-das724/) for any Doubt Clearence
 
-# Hi, I'm Ipsita!👋
+# Hey, I'm Ipsita!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
 - Web Development Stack,
