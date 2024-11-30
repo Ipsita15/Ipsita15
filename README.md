@@ -16,6 +16,12 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
     - Core: Machine Learning
 
 - Coding Skills in Java (DSA), Solved 500+ DSA based questions
+- SAP SD & ABAP Developer.
+      - OTC cycle
+      - Enterprise Structure
+      - IDocs
+      - ABAP debugging
+      - Pricing
 
 
 
